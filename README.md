@@ -83,5 +83,5 @@
 <br>
 
 ## Classe Main
-* Aqui na classe Main ele irá somente pixar a classe MenuMain.
+* Aqui na classe Main ela irá somente puxar a classe MenuMain.
 * Fiz deste modo para deixar a classe principal a "MAIN" de uma forma visualmente limpa.
